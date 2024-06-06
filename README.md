@@ -40,4 +40,4 @@ We welcome contributions to Scar Drive! To get involved, please refer to the CON
 
 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT LICENSE](LICENSE).
