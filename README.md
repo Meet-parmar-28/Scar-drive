@@ -16,11 +16,11 @@ We empower your car-buying journey by providing a comprehensive platform to expl
 * **Simplify financial planning:** Use the EMI calculator to estimate monthly loan payments, ensuring your car purchase aligns with your financial goals.
 * **Navigate the car-buying process:** Scar Drive provides all the tools and information you need to embark on a smooth and informed car-buying journey.
 
-**Running Scar Drive Locally (XAMPP)**
+**Running Scar Drive Locally (*XAMPP*)**
 
 **Prerequisites:**
 
-* XAMPP installed and running on your system.
+* *XAMPP* installed and running on your system.
 * PHP version compatible with your project requirements (check documentation if needed).
 
 **Instructions:**
@@ -29,13 +29,19 @@ We empower your car-buying journey by providing a comprehensive platform to expl
 
    ```bash
    git clone [https://github.com/your-username/scar-drive](https://github.com/your-username/scar-drive)
+
 2. **Copy project files:**
 
-Copy the contents of the cloned repository folder into your *XAMPP* htdocs directory. (This directory is typically located at C:\xampp\htdocs on Windows systems.)
-Start Apache:
+Copy the contents of the cloned repository folder into your *XAMPP* htdocs directory. (This directory is typically located at C:\XAMPP\htdocs on Windows systems.)
 
-Ensure the Apache module is running in the XAMPP control panel.
-Access your project:
+3. **Start Apache:**
+
+Ensure the Apache module is running in the *XAMPP* control panel.
+
+4. **Access your project:**
 
 Open a web browser and navigate to http://localhost/your-project-folder (replace your-project-folder with the actual name of your project folder within htdocs).
-Note: These are general instructions, and the specific steps might vary depending on your project setup. Consult the XAMPP documentation for further guidance if needed: https://www.apachefriends.org/(https://www.apachefriends.org/).
+
+**Note:** These are general instructions, and the specific steps might vary depending on your project setup. Consult the *XAMPP* documentation for further guidance if needed: https://www.apachefriends.org/(https://www.apachefriends.org/).
+
+This project is licensed under the [MIT License](LICENSE).
