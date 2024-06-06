@@ -31,7 +31,7 @@ We empower your car-buying journey by providing a comprehensive platform to expl
    git clone [https://github.com/your-username/scar-drive](https://github.com/your-username/scar-drive)
 2. **Copy project files:**
 
-Copy the contents of the cloned repository folder into your XAMPP htdocs directory. (This directory is typically located at C:\xampp\htdocs on Windows systems.)
+Copy the contents of the cloned repository folder into your *XAMPP* htdocs directory. (This directory is typically located at C:\xampp\htdocs on Windows systems.)
 Start Apache:
 
 Ensure the Apache module is running in the XAMPP control panel.
