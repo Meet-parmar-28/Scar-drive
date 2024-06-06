@@ -16,28 +16,26 @@ We empower your car-buying journey by providing a comprehensive platform to expl
 * **Simplify financial planning:** Use the EMI calculator to estimate monthly loan payments, ensuring your car purchase aligns with your financial goals.
 * **Navigate the car-buying process:** Scar Drive provides all the tools and information you need to embark on a smooth and informed car-buying journey.
 
-**Getting Started**
+**Running Scar Drive Locally (XAMPP)**
+
+**Prerequisites:**
+
+* XAMPP installed and running on your system.
+* PHP version compatible with your project requirements (check documentation if needed).
+
+**Instructions:**
 
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/Meet-parmar-28/Scar-drive.git
-2. **Install dependencies (if any):**
+   git clone [https://github.com/your-username/scar-drive](https://github.com/your-username/scar-drive)
+2. **Copy project files:**
 
-Refer to the requirements.txt file (if it exists) and install necessary dependencies using your preferred package manager (e.g., pip install -r requirements.txt).
+Copy the contents of the cloned repository folder into your XAMPP htdocs directory. (This directory is typically located at C:\xampp\htdocs on Windows systems.)
+Start Apache:
 
-3. **Configure the application (if applicable):**
+Ensure the Apache module is running in the XAMPP control panel.
+Access your project:
 
-Follow any configuration instructions specific to your project (e.g., database connection details, API keys).
-
-4. **Run the website:**
-
-The specific command to run your website will depend on your development framework or technology stack. Consult your project's documentation for guidance.
-
-Contributing
-
-We welcome contributions to Scar Drive! To get involved, please refer to the CONTRIBUTING.md file for guidelines on creating pull requests and maintaining code quality.
-
-License
-
-This project is licensed under the [MIT LICENSE](LICENSE).
+Open a web browser and navigate to http://localhost/your-project-folder (replace your-project-folder with the actual name of your project folder within htdocs).
+Note: These are general instructions, and the specific steps might vary depending on your project setup. Consult the XAMPP documentation for further guidance if needed: https://www.apachefriends.org/(https://www.apachefriends.org/).
