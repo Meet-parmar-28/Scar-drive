@@ -21,7 +21,7 @@ We empower your car-buying journey by providing a comprehensive platform to expl
 1. **Clone this repository:**
 
    ```bash
-   git clone [https://github.com/Novartis/scar](https://github.com/Novartis/scar)
+   git clone https://github.com/Meet-parmar-28/Scar-drive.git
 2. **Install dependencies (if any):**
 
 Refer to the requirements.txt file (if it exists) and install necessary dependencies using your preferred package manager (e.g., pip install -r requirements.txt).
